@@ -5,7 +5,22 @@ My key skills are understanding of web-development issues and
 willingness to learn. Recent achievements include self-studying of CSS3, 
 HTML5, the basics of 
 JavaScript and Git.  
-### Code examples   
+### Code examples
+	<!DOCTYPE html>
+	<html>
+  	  <head>
+    	    <meta charset="utf-8">
+    	    <title>Savory</title>
+    	    <link rel="stylesheet" type="text/css" href="reset.css" />
+    	    <link rel="stylesheet" type="text/css" href="style.css" />
+    	    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600" rel="stylesheet">
+    	    <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+  	  </head>
+	header, footer {
+  	  background-color: #ffa500;
+  	  text-align: center;
+  	  min-width: 500px;
+	}   
 ### Employment History  
 Developed Fashion blog and Wine Shedule in Codeacademy.com (HTML 
 course)  
