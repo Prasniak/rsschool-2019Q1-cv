@@ -21,7 +21,6 @@ JavaScript and Git.
   	  text-align: center;
   	  min-width: 500px;
 	}  
-   
 ### Employment History  
 Developed Fashion blog and Wine Shedule in Codeacademy.com (HTML 
 course)  
