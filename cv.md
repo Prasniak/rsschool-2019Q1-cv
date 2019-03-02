@@ -29,16 +29,16 @@ with Wordpress CMS (include CSS and HTML)
 Developed CSS-Grid: Architecture Blog and Paint Shop site in 
 Codeacademy.com (CSS course)  
 ### Education  
-##### Linguistic College (2011-2014)  
+#### Linguistic College (2011-2014)  
 Linguistic support of socio-cultural activities  
-##### Belarusian State University of Culture and Arts (2014-2019) 
+#### Belarusian State University of Culture and Arts (2014-2019) 
 Management of advertising and public relations  
 Codeacademy.com HTML Basics course (02.2019)  
 Codeacademy.com CSS Basics course (02.2019)  
 SoloLearn JavaScript course (11.2018)  
 SoloLearn CSS and HTML course (10.2018)  
 ### English level: Pre-Intermediate A2  
-##### Corses  
+#### Corses  
 English as a Second Language (ESL) 08.2018 (Upper Intermediate) 
  
 EndlishBrunch Course 12.2018 - Present (Intermediate) 
