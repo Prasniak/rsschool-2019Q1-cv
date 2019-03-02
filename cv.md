@@ -16,11 +16,6 @@ JavaScript and Git.
     	    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600" rel="stylesheet">
     	    <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
   	  </head>
-	header, footer {
-  	  background-color: #ffa500;
-  	  text-align: center;
-  	  min-width: 500px;
-	}
   
 ### Employment History  
 Developed Fashion blog and Wine Shedule in Codeacademy.com (HTML 
