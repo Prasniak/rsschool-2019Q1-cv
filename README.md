@@ -1,1 +1,1 @@
-https://prasniak.github.io/rsschool-2019Q1-cv/cv
+https://prasniak.github.io/rsschool-cv/cv
